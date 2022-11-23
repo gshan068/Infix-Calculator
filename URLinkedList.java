@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 //This is the URLinkedList class to be used in Stack and Queue.
 
 import java.util.Collection;
