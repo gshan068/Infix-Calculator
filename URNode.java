@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 //This is the URNode.
 
 class URNode<E> {
