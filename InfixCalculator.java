@@ -1,7 +1,4 @@
-//Name: Lishan Gao
-//NetID: lgao14
 //This class evaluate the RPN expression (postfix).
-// I did extra credit 1, 2, and 3 (description below)
 /* Extra Credit:do not require blanks (i.e. allow users to input "5+7*2" as well as "5 + 7 * 2" ) 5% must
 	be documented - it's your responsibility to point it out)
 	Extra Credit : support negative and positive numbers - unary +/- (i.e.allow users to input " -5 + -7 *
