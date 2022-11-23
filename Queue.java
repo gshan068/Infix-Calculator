@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 // This is the Queue class to be used in InfixtoPostfix and InfixCalculator classes.
 
 class Queue<E> extends URLinkedList<E> {
