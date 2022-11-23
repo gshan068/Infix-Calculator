@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 // This is the URList interface.
 
 import java.util.Collection;
