@@ -1,5 +1,3 @@
-//Name: Lishan Gao
-//NetID: lgao14
 // This is the Stack class to be used in InfixtoPostfix and InfixCalculator classes.
 
 class Stack<E> extends URLinkedList<E>{
